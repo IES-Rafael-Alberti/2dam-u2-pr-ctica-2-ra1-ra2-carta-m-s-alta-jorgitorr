@@ -9,11 +9,11 @@ Creardos clases enumeradas con la información de los Palos y Naipes de una bara
 	* Napies: AS, DOS, TRES, ..., DIEZ, VALET, DAME, ROI
 
 
-Crear dos clases llamadas Carta y Baraja.
+Crear dos clases llamadas Carta y Baraja. //hecho
 
 - La clase Carta tendrá las siguientes propiedades:
 	
-	* nombre (Naipes)
+	* nombre (Naipes) 
 	* palo (Palos)
 	* puntosMin (Int)
 	* puntosMax (Int)
@@ -22,7 +22,8 @@ Crear dos clases llamadas Carta y Baraja.
 	** Dejamos preparada la clase para el juego del BlackJack... solo el AS tiene dos tipos de puntuación: 1 u 11 según mejor nos convenga con el resto de cartas.
 	** idDrawable es un número que me ayudará a encontrar mi imagen en los recursos.
 
-- La clase Baraja tendrá su única propiedad y los métodos dentro de un companiion object, ya que la vamos a tratar de forma estática y no vamos a generar objetos de dicha clase:
+- La clase Baraja tendrá su única propiedad y los métodos dentro de un companion object, 
+- ya que la vamos a tratar de forma estática y no vamos a generar objetos de dicha clase:
 	
 	* listaCartas (ArrayList<Carta>)
 	
@@ -42,8 +43,8 @@ Funcionamiento de la aplicación:
 
 Recursos:
 
-	* 53 imágenes en la carpeta drawable, una boca abajo y el resto de cartas de una baraja francesa (por ejemplo, en Freepik tenéis recursos gratuitos con los que podéis hacerlo).
-	* Las imágenes tendrán un tamaño reducido que ocupen poco espacio (si son redondeadas, mejor en PNG por permitir la transparencia del fondo).
+	* 53 imágenes en la carpeta drawable, una boca abajo y el resto de cartas de una baraja francesa (por ejemplo, en Freepik tenéis recursos gratuitos con los que podéis hacerlo).//hecho
+	* Las imágenes tendrán un tamaño reducido que ocupen poco espacio (si son redondeadas, mejor en PNG por permitir la transparencia del fondo).//hecho
 	* Para retornar el id de un recurso mediante una variable podéis usar 
 	
 	    val context = LocalContext.current
