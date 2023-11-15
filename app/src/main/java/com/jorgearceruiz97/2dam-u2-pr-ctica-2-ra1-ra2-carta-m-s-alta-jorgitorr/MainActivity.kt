@@ -79,13 +79,6 @@ class MainActivity : ComponentActivity() {
     }
 
 
-    /*fun recuperarId(Carta: carta){
-        val context = LocalContext.current
-
-        context.resources.getIdentifier("nombreRecurso", "drawable", context.packageName)
-    }*/
-
-
 
 
 
