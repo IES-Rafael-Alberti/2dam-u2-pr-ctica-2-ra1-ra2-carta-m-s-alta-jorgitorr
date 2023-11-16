@@ -35,7 +35,7 @@ Crear dos clases llamadas Carta y Baraja. //hecho
 
 Funcionamiento de la aplicación:
 
-	* La aplicación debe mostrar una carta boca abajo y debajo de ella dos botones: "Dame Carta" y "Reiniciar".
+	* La aplicación debe mostrar una carta boca abajo y debajo de ella dos botones: "Dame Carta" y "Reiniciar". //hecho
 
 	* Si pulsamos en el primer botón cambiará la imagen por una carta de la baraja (método dameCarta de Baraja)
 

@@ -9,8 +9,9 @@ enum class Naipes(valorMin:Int, valorMax: Int){
 
     var valorMin = valorMin
     var valorMax = valorMax
-
-
+    override fun toString(): String {
+        return "$name"
+    }
 
 
 }

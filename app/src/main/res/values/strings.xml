@@ -1,4 +1,63 @@
 <resources>
-    <string name="app_name">2dam-u2-pr-ctica-1-ra1-ra2-saludo-y-contadores-jorgitorr</string>
-    <string name="c1">1 corazones</string>
+    <!-- Cartas de corazones -->
+    <string name="c1">1 de corazones</string>
+    <string name="c2">2 de corazones</string>
+    <string name="c3">3 de corazones</string>
+    <string name="c4">4 de corazones</string>
+    <string name="c5">5 de corazones</string>
+    <string name="c6">6 de corazones</string>
+    <string name="c7">7 de corazones</string>
+    <string name="c8">8 de corazones</string>
+    <string name="c9">9 de corazones</string>
+    <string name="c10">10 de corazones</string>
+    <string name="c11">11 de corazones</string>
+    <string name="c12">12 de corazones</string>
+    <string name="c13">13 de corazones</string>
+
+    <!-- Cartas de diamantes -->
+    <string name="d1">1 de diamantes</string>
+    <string name="d2">2 de diamantes</string>
+    <string name="d3">3 de diamantes</string>
+    <string name="d4">4 de diamantes</string>
+    <string name="d5">5 de diamantes</string>
+    <string name="d6">6 de diamantes</string>
+    <string name="d7">7 de diamantes</string>
+    <string name="d8">8 de diamantes</string>
+    <string name="d9">9 de diamantes</string>
+    <string name="d10">10 de diamantes</string>
+    <string name="d11">11 de diamantes</string>
+    <string name="d12">12 de diamantes</string>
+    <string name="d13">13 de diamantes</string>
+
+    <!-- Cartas de picas -->
+    <string name="p1">1 de picas</string>
+    <string name="p2">2 de picas</string>
+    <string name="p3">3 de picas</string>
+    <string name="p4">4 de picas</string>
+    <string name="p5">5 de picas</string>
+    <string name="p6">6 de picas</string>
+    <string name="p7">7 de picas</string>
+    <string name="p8">8 de picas</string>
+    <string name="p9">9 de picas</string>
+    <string name="p10">10 de picas</string>
+    <string name="p11">11 de picas</string>
+    <string name="p12">12 de picas</string>
+    <string name="p13">13 de picas</string>
+
+    <!-- Cartas de trébol -->
+    <string name="t1">1 de trébol</string>
+    <string name="t2">2 de trébol</string>
+    <string name="t3">3 de trébol</string>
+    <string name="t4">4 de trébol</string>
+    <string name="t5">5 de trébol</string>
+    <string name="t6">6 de trébol</string>
+    <string name="t7">7 de trébol</string>
+    <string name="t8">8 de trébol</string>
+    <string name="t9">9 de trébol</string>
+    <string name="t10">10 de trébol</string>
+    <string name="t11">11 de trébol</string>
+    <string name="t12">12 de trébol</string>
+    <string name="t13">13 de trébol</string>
+
+    <string name="facedown">boca abajo</string>
 </resources>
