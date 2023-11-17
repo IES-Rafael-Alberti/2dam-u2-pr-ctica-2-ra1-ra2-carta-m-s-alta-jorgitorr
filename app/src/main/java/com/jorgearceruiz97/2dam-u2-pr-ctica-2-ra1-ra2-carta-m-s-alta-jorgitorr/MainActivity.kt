@@ -48,6 +48,7 @@ class MainActivity : ComponentActivity() {
     //@Preview(showBackground = true)
     @Composable
     fun BotonesYCartas(reiniciar:(Baraja)->Unit, dameCarta:(Carta) -> Unit){
+
         Box(
             modifier = Modifier
                 .fillMaxSize()
